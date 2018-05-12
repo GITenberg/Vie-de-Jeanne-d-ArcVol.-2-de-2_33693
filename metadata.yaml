@@ -1,0 +1,32 @@
+_repo: Vie-de-Jeanne-d-ArcVol.-2-de-2_33693
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-Francois
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Anatole
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2010-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33693'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Joan, of Arc, Saint, 1412-1431'
+title: Vie de Jeanne d'Arc. Vol. 2 de 2
+url: http://www.gutenberg.org/ebooks/33693
